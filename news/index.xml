@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Whitesoma</title>
+    <link>https://whitesoma.com/news/</link>
+    <description>Recent content in News on Whitesoma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whitesoma.com/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whitesoma bags &#39;Most innovative technological idea&#39; award at Churchill Enterprise 2022</title>
+      <link>https://whitesoma.com/news/churchill_award/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://whitesoma.com/news/churchill_award/</guid>
+      <description>On the evening of the 27th April, six teams of budding entrepreneurs gathered at Churchill College, University of Cambridge, to pitch their start-ups at the finals of the Churchill Enterprise awards.</description>
+    </item>
+    
+  </channel>
+</rss>
